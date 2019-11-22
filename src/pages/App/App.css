@@ -3,30 +3,21 @@
   height: 100vh;
 }
 
+
+.App-header img {
+  height: 15vmin;
+}
 .App-header {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   padding: 2vmin;
-  background-color: var(--primary-color);
+  background-color: #06c849;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-size: 5vmin;
-  color: var(--text-color);
-  opacity: 0.85;
-}
-<<<<<<< HEAD
-=======
-
->>>>>>> cefd425b2e4b0f5a3361581624dca5774d37aa2f
-.App-header div {
-  color: white;
-  font-size: 8vmin;
-  font-weight: bold;
-}
-
-.App-header img {
-  height: 15vmin;
+  font-size: 10vmin;
+  color: #7c1204;
+  opacity: 0.75;
 }
